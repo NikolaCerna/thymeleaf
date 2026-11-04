@@ -1,9 +1,9 @@
 
 
-![All employees](all.png)
+![All employees](images/all.png)
 
 
-![One employee](one.png)
+![One employee](images/one.png)
 
 
-![New employee](new.png)
+![New employee](images/new.png)
